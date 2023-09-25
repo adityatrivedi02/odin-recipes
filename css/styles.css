@@ -1,16 +1,22 @@
 body {
-    background-color: palegoldenrod;
+    background-color: rgb(219, 157, 76);
 }
-h1,
-h2 {
+
+.center{
+    border: 2px solid gold;
+    display: block;
+    margin: 10px auto;
     text-align: center;
 }
 
 .orderedlist {
-    font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
 }
 
-.siimg {
-    height: 300px;
+img {
+    border: 2px solid gold;
+    height: 200px;
+    width: 250px;
+    display: block;
+    margin: 10px auto;
 }
