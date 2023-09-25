@@ -1,0 +1,16 @@
+body {
+    background-color: palegoldenrod;
+}
+h1,
+h2 {
+    text-align: center;
+}
+
+.orderedlist {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.siimg {
+    height: 300px;
+}
